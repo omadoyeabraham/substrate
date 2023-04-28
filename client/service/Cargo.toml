@@ -74,7 +74,7 @@ prometheus-endpoint = { package = "substrate-prometheus-endpoint", path = "../..
 sc-tracing = { version = "4.0.0-dev", path = "../tracing" }
 sc-sysinfo = { version = "6.0.0-dev", path = "../sysinfo" }
 sc-storage-monitor = { version = "0.1.0", path = "../storage-monitor" }
-tracing = "0.1.29"
+tracing = "0.1.38"
 tracing-futures = { version = "0.2.4" }
 async-trait = "0.1.57"
 tokio = { version = "1.22.0", features = ["time", "rt-multi-thread", "parking_lot"] }
